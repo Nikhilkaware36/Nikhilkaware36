@@ -1,4 +1,4 @@
-👋 Hey there! I'm @Nikhilkaware36 – a passionate Ethical Hacker and Cybersecurity Specialist.
+👋 Hey there! I'm @Nikhilkaware36 – a passionate Ethical Hacker and DarkWeb Exploler.
 
 🕵️‍♂️ What do I do?
 I work hand-in-hand with government agencies, law enforcement, and security teams to develop cutting-edge solutions in the world of digital security. From dark web exploration to OSINT tool development, I’m at the forefront of tracking down malicious actors and enhancing cybersecurity frameworks.
