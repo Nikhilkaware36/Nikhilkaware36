@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilkaware36&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Ethical Hacker & developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkaware36&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkaware36" /> </p>
 
