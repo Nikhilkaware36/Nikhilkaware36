@@ -27,7 +27,4 @@
 <a href="https://instagram.com/nikhil.kaware.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.kaware.3" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilkaware36&show_icons=true&locale=en&layout=compact" alt="nikhilkaware36" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilkaware36&show_icons=true&locale=en" alt="nikhilkaware36" /></p>
 
